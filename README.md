@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Aesha-4326/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aesha-4326/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Aesha-4326/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aesha-4326/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aesha-4326/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -54,4 +56,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
