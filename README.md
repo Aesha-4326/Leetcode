@@ -41,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Aesha-4326/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
