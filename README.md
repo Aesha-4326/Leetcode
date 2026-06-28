@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Aesha-4326/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aesha-4326/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aesha-4326/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -64,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
