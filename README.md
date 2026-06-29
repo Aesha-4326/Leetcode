@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Aesha-4326/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Sliding Window
@@ -70,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
