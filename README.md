@@ -76,4 +76,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
