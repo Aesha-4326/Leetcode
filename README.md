@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aesha-4326/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
