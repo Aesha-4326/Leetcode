@@ -99,6 +99,7 @@
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Aesha-4326/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 <!---LeetCode Topics End-->
