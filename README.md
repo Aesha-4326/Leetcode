@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Aesha-4326/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -58,6 +59,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Aesha-4326/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Aesha-4326/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
