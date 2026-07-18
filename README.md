@@ -79,6 +79,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Aesha-4326/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Backtracking
@@ -148,6 +149,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aesha-4326/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
