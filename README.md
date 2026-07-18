@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Aesha-4326/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0048-rotate-image](https://github.com/Aesha-4326/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aesha-4326/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Aesha-4326/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -90,6 +92,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Aesha-4326/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
