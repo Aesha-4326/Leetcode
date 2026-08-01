@@ -204,5 +204,6 @@
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aesha-4326/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/Aesha-4326/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aesha-4326/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0620-not-boring-movies](https://github.com/Aesha-4326/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
