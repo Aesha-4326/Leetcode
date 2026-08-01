@@ -199,4 +199,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aesha-4326/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Aesha-4326/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
