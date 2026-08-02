@@ -85,6 +85,7 @@
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aesha-4326/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0866-prime-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Aesha-4326/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Backtracking
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
