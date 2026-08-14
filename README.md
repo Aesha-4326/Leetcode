@@ -190,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -198,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -206,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aesha-4326/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
