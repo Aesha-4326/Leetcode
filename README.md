@@ -190,18 +190,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Memoization
@@ -218,4 +221,8 @@
 | [0620-not-boring-movies](https://github.com/Aesha-4326/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Aesha-4326/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Aesha-4326/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
