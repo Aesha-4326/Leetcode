@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Aesha-4326/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aesha-4326/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Aesha-4326/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aesha-4326/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -40,6 +41,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aesha-4326/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aesha-4326/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
