@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/Aesha-4326/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Aesha-4326/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Aesha-4326/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Aesha-4326/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aesha-4326/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -111,6 +112,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Aesha-4326/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aesha-4326/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Matrix
@@ -156,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aesha-4326/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aesha-4326/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aesha-4326/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Aesha-4326/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aesha-4326/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
