@@ -31,6 +31,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aesha-4326/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aesha-4326/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aesha-4326/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Aesha-4326/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aesha-4326/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Aesha-4326/Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aesha-4326/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -117,6 +118,7 @@
 | [0054-spiral-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Aesha-4326/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
