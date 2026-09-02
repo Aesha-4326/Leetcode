@@ -155,6 +155,7 @@
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aesha-4326/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Aesha-4326/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Aesha-4326/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aesha-4326/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Aesha-4326/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
