@@ -107,6 +107,7 @@
 | [0866-prime-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Aesha-4326/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Aesha-4326/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | ------- | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aesha-4326/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Aesha-4326/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Aesha-4326/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
