@@ -104,6 +104,7 @@
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Aesha-4326/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0415-add-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aesha-4326/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0866-prime-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -158,6 +159,7 @@
 | [0125-valid-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0415-add-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aesha-4326/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/Aesha-4326/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -210,6 +212,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0415-add-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Aesha-4326/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
 ## Stack
