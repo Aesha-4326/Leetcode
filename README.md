@@ -101,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aesha-4326/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0043-multiply-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Aesha-4326/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Aesha-4326/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -157,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aesha-4326/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Aesha-4326/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aesha-4326/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -215,6 +217,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Aesha-4326/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0415-add-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0415-add-strings/) | Easy |
