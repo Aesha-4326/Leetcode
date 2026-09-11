@@ -148,6 +148,7 @@
 | [0141-linked-list-cycle](https://github.com/Aesha-4326/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aesha-4326/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Aesha-4326/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Aesha-4326/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -162,6 +163,7 @@
 | [0415-add-strings](https://github.com/Aesha-4326/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aesha-4326/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/Aesha-4326/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Aesha-4326/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aesha-4326/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Aesha-4326/Leetcode/tree/main/3813-vowel-consonant-score/) | Easy |
