@@ -24,6 +24,7 @@
 | [0152-maximum-product-subarray](https://github.com/Aesha-4326/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Aesha-4326/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Aesha-4326/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aesha-4326/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aesha-4326/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aesha-4326/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Aesha-4326/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Aesha-4326/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Aesha-4326/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aesha-4326/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -79,6 +81,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aesha-4326/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aesha-4326/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Aesha-4326/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Aesha-4326/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Aesha-4326/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Aesha-4326/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aesha-4326/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
