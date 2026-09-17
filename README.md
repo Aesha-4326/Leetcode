@@ -117,6 +117,7 @@
 | [0866-prime-palindrome](https://github.com/Aesha-4326/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aesha-4326/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/Aesha-4326/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [2235-add-two-integers](https://github.com/Aesha-4326/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Aesha-4326/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
